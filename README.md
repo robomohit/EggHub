@@ -1,5 +1,7 @@
 # Egg Hub
 
+![Egg Hub](thumbnail.jpg)
+
 An auto farm for **Steal An Egg**. It carries eggs home from the best area your
 Speed can handle, hatches them, keeps your best pets in the pen, trains on your
 treadmill in between and buys upgrades. Then it keeps doing that, even after the
