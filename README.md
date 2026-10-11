@@ -61,6 +61,15 @@ It doesn't teleport or fly. It walks, the way you would: this game kills or
 freezes characters that teleport, tween or go through walls. It only sells
 pets if you turn on Auto sell, and it never spends Robux.
 
+## Crash reports
+
+If Egg Hub hits an error, it sends a short crash report so the bug can be
+fixed: the error message, your executor's name, phone or PC, screen size, the
+game's place ID and the Egg Hub build. No username, no account data, nothing
+about your items. At most five reports a session, and never the same one
+twice. If it can't start at all, you'll see the reason in a Roblox
+notification.
+
 ## Notes
 
 Automating a Roblox game can get the account banned. Use an account you can
