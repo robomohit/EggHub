@@ -43,6 +43,11 @@ fresh join.
 - **Best pets in the pen:** fills empty slots, and swaps a weak pet out whenever
   a better one hatches. Pets are ranked by the game's own earning rate.
 - **Auto upgrade base:** buys the next base tier, for more pen slots.
+- **Auto sell weak pets** (off until you turn it on): when your pet inventory is
+  full, the game refuses every egg. This sells your weakest spare pets so egg runs
+  can carry on. It never sells pen, mutated or favorite pets, or the best N
+  spares (you pick N). With it off, the hub keeps training on the treadmill and
+  tries eggs again every 5 minutes.
 
 **Other**
 - **Claims** your Index rewards and offline earnings.
@@ -53,8 +58,8 @@ fresh join.
 ## What it won't do
 
 It doesn't teleport or fly. It walks, the way you would: this game kills or
-freezes characters that teleport, tween or go through walls. It never sells
-your pets, and it never spends Robux.
+freezes characters that teleport, tween or go through walls. It only sells
+pets if you turn on Auto sell, and it never spends Robux.
 
 ## Notes
 
